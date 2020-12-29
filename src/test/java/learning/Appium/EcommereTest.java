@@ -151,6 +151,4 @@ public class EcommereTest extends Setup
 			throw new VerifyError("Main Page's Header Text was not found");
 		}
 	}
-	
-	
 }
