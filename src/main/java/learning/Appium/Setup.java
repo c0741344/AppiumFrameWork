@@ -22,7 +22,7 @@ import io.appium.java_client.service.local.AppiumServiceBuilder;
 public class Setup 
 {	
 	// Made these changes for the Develop branch only 
-	
+	// Made these changes for the Develop branch only
 	
 	AndroidDriver<AndroidElement> androidDriver;
 	public static AppiumDriverLocalService service;
